@@ -1,0 +1,9 @@
+# Security Policy for Hearth & Batter Website
+Contact: mailto:gauravtawri001@gmail.com
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en
+Policy: Please provide a detailed report of any security vulnerabilities
+Acknowledgments: We thank all security researchers for their valuable contributions
+Canonical: https://sudo-gaurav.github.io/Hearth-And-Batter-Website/.well-known/security.txt
+Encryption: N/A
+Hiring: No
