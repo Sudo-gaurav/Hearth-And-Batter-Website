@@ -1,0 +1,22 @@
+# Comprehensive robots.txt for Hearth & Batter
+User-agent: *
+# Protect sensitive directories
+Disallow: /Assets/JavaScripts/
+Disallow: /*.json$
+Disallow: /*.txt$
+Disallow: /*.js$
+Disallow: /.*
+
+# Allow public content
+Allow: /Assets/CSS/
+Allow: /Assets/Video's/
+Allow: /Background Video/
+Allow: /index.html
+Allow: /products.html
+Allow: /
+
+# Crawl delay to prevent server overload
+Crawl-delay: 10
+
+# Sitemap location
+Sitemap: https://sudo-gaurav.github.io/Hearth-And-Batter-Website/sitemap.xml
